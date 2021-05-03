@@ -8,6 +8,7 @@ My name is Aidan and I am an inspring teenager learning to code.
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=008000)
+![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=JavaScript&logoColor=white&color=008000)
 
 ## &#x1f4c8; GitHub Stats
 
