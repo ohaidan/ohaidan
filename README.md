@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aiden Z and I'm a Self-taught developer. I'm from Florida, living in Homosassa and currently working on personal projects.
+My name is Aidan and I am an inspring teenager learning to code.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=008000)
@@ -8,9 +8,6 @@ My name is Aiden Z and I'm a Self-taught developer. I'm from Florida, living in 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=008000)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=008000)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=008000)
-![](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windows%20terminal&logoColor=white&color=008000)
 
 ## &#x1f4c8; GitHub Stats
 
