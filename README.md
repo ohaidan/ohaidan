@@ -1,4 +1,3 @@
-# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Aidan and I am an inspring teenager learning to code. Currently I am working on a FiveM project, which I am learning a lot from! In the future, I plan to make my own Lua & PHP resources with the knowledge I have gained.
 
