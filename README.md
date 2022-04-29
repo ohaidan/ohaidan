@@ -6,4 +6,4 @@
 <br>
 
 ### What I do:
-[Innovative Studios](https://discord.iv-studios.net) - Owner & Lead Developer
+Owner & Lead Developer @ [Innovative Studios](https://discord.iv-studios.net) 
