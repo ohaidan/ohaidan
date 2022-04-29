@@ -6,9 +6,4 @@
 <br>
 
 ### About me:
-[Innovative Studios](https://discord.iv-studios.net) - Developer creating FiveM QBCore Resources & Websites
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanohart&show_icons=true&theme=radical" />
-</p>
+[Innovative Studios](https://discord.iv-studios.net) - Lead Developer
