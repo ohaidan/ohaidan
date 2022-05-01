@@ -6,4 +6,5 @@
 <br>
 
 ### What I do:
-Owner & Lead Developer @ [Innovative Studios Ltd](https://github.com/Innovative-Studios) 
+Owner & Lead Developer @ [Innovative Studios Ltd](https://github.com/Innovative-Studios)
+Developer @ [Music & Mayhem Roleplay](https://discord.gg/mnmrp) 
