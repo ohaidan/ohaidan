@@ -9,7 +9,6 @@
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br>
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -21,9 +20,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-<br>
-### What I do:
+# What I do:
 Owner & Lead Developer @ [Innovative Studios Ltd](https://github.com/Innovative-Studios)
 <br>
 Developer @ [Music & Mayhem Roleplay](https://discord.gg/mnmrp) 
