@@ -1,3 +1,4 @@
+<h5 align="center">hi i'm aidanohart;</h5>
 <h5 align="center">a young aspiring developer wanting to learn more and working on multiple projects!</h5>
 
 # My Skills:
