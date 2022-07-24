@@ -1,3 +1,6 @@
+<h3 align="center">hey! i'm aidanohart</h3>
+<h3 align="center">a young aspriing developer wanting to learn more and working on multiple projects!</h3>
+
 # My Skills:
 ### Languages:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
