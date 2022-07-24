@@ -1,5 +1,4 @@
-<h3 align="center">hey! i'm aidanohart</h3>
-<h3 align="center">a young aspriing developer wanting to learn more and working on multiple projects!</h3>
+<h5 align="center">a young aspiring developer wanting to learn more and working on multiple projects!</h5>
 
 # My Skills:
 ### Languages:
