@@ -1,4 +1,4 @@
-<h5 align="center">hi i'm aidanohart; a young aspiring developer wanting to learn more and working on multiple projects!</h5>
+<h5 align="center">[View my portfolio](https://aidanoh.art)</h5>
 
 # My Skills:
 ### Languages:
