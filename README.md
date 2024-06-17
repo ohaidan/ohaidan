@@ -3,7 +3,7 @@
 #### Self Employed Developer 👩‍💻 | Footballer ⚽ 
 
 Owner @ Versa Development<br>
-Project Lead @ [Versa Bot](https://versabot.ner)<br>
+Project Lead @ [Versa Bot](https://versabot.net)<br>
 Social Management @ [ThePeoplesPundit](https://discord.gg/pundit), [CharlieTheCommentator](https://discord.gg/ncHQHYpF)<br>
 
 - 💬 I'm mostly active within the [FiveM Community](https://forum.cfx.re)
