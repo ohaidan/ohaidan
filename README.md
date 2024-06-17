@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Self Employed Developer
+#### Self Employed Developer 👩‍💻 | Footballer ⚽ 
 
 Owner @ Versa Development<br>
 Project Lead @ [Versa Bot](https://versabot.ner)<br>
